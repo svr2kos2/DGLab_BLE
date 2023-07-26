@@ -1,0 +1,8 @@
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\obj\Debug\DGLab_BLE.csproj.AssemblyReference.cache
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\obj\Debug\DGLab_BLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\obj\Debug\DGLab_BLE.csproj.CoreCompileInputs.cache
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\bin\Debug\DGLab_BLE.exe.config
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\bin\Debug\DGLab_BLE.exe
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\bin\Debug\DGLab_BLE.pdb
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\obj\Debug\DGLab_BLE.exe
+C:\Users\svr2k\source\repos\DGLab_BLE\DGLab_BLE\obj\Debug\DGLab_BLE.pdb

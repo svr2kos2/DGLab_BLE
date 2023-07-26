@@ -1,0 +1,8 @@
+E:\workspace\VRCHeartRate\BLEHeartRateCore\bin\Debug\BLE_HeartRateCore.exe.config
+E:\workspace\VRCHeartRate\BLEHeartRateCore\bin\Debug\BLE_HeartRateCore.exe
+E:\workspace\VRCHeartRate\BLEHeartRateCore\bin\Debug\BLE_HeartRateCore.pdb
+E:\workspace\VRCHeartRate\BLEHeartRateCore\obj\Debug\BLEHeartRateCore.csproj.AssemblyReference.cache
+E:\workspace\VRCHeartRate\BLEHeartRateCore\obj\Debug\BLEHeartRateCore.csproj.SuggestedBindingRedirects.cache
+E:\workspace\VRCHeartRate\BLEHeartRateCore\obj\Debug\BLEHeartRateCore.csproj.CoreCompileInputs.cache
+E:\workspace\VRCHeartRate\BLEHeartRateCore\obj\Debug\BLE_HeartRateCore.exe
+E:\workspace\VRCHeartRate\BLEHeartRateCore\obj\Debug\BLE_HeartRateCore.pdb
